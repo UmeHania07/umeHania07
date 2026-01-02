@@ -5,7 +5,7 @@ I am a passionate <b>Software Engineer</b> who enjoys building clean, scalable, 
 I have hands-on experience with <b>React<b/b>, <b>Redux</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>, and I use tools like ,<b>Axios</b> and <b>Postman</b> for building and testing reliable APIs.<br><br>
 I am always eager to learn new technologies and solve <b>real-world</b> problems through efficient and practical code.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUfS52kGP7xfX90CRroQ_OVv14UIP9oc3Uw&s"  width="500" height="200" align="right"/>
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="300" height="300" align="right"/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umehania.shahid@gmail.com) 
