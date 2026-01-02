@@ -1,5 +1,9 @@
 # 💫 About Me:
-## 👋 Hi, I'm Ume Hania<br><br>I am a passionate **Software Engineer** with a strong foundation in modern web development.  <br>I enjoy building clean, scalable, and user-focused applications using modern JavaScript technologies.<br><br>I have hands-on experience working with **React**, **Redux**, **Node.js**, **Express.js**, and **MongoDB**, and I am comfortable building complete web applications from user interfaces to backend APIs and databases.  <br>I also use tools like **Axios** for API communication and **Postman** for testing and debugging APIs.<br><br>I am always eager to learn new technologies, improve my problem-solving skills, and build real-world projects that create meaningful user experiences.<br>
+## 👋 Hi, I'm Ume Hania<br><br>
+I am a passionate **Software Engineer** who enjoys building clean, scalable, and user-friendly web applications using modern JavaScript technologies.<br><br>
+I have hands-on experience with **React**, **Redux**, **Node.js**, **Express.js**, and **MongoDB**, and I use tools like **Axios** and **Postman** for building and testing reliable APIs.<br><br>
+I am always eager to learn new technologies and solve real-world problems through efficient and practical code.
+
 
 
 ## 🌐 Socials:
