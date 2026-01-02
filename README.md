@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/C5612AQFyLTzp0XYdYQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1594931019245?e=2147483647&v=beta&t=96dfbVQHGUX2mEnDE8YKU9VUmkZps1ee_eu5yrssh7w"  height="180" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/C5612AQFyLTzp0XYdYQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1594931019245?e=2147483647&v=beta&t=96dfbVQHGUX2mEnDE8YKU9VUmkZps1ee_eu5yrssh7w"  height="200" width="100%" />
 <b> 💫 About Me:</b><br>
  <b style="font-size:40px;">👋 Hi, I'm Ume Hania</b><br><br>
 I am a passionate <b>Software Engineer</b> who enjoys building clean, scalable, and user-friendly web applications using modern JavaScript technologies.<br><br>
