@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/C5612AQFyLTzp0XYdYQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1594931019245?e=2147483647&v=beta&t=96dfbVQHGUX2mEnDE8YKU9VUmkZps1ee_eu5yrssh7w"  height="200" width="100%" />
  <b>💫 About Me:</b><br>
- <b>👋 Hi, I'm Ume Hani</b><br><br>
+ <b>👋 Hi, I'm Ume Hania</b><br><br>
 <b>I’m a MERN Stack Software Engineer passionate about building full-stack web applications</b> that are clean, scalable, and user-friendly. My goal is to continuously improve my skills by building real-world projects and turning ideas into practical digital solutions.
 
 
