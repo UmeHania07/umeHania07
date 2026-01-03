@@ -5,8 +5,6 @@ I am a passionate <b>Software Engineer</b> who enjoys building clean, scalable, 
 I have hands-on experience with <b>React</b>, <b>Redux</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>, and I use tools like ,<b>Axios</b> and <b>Postman</b> for building and testing reliable APIs.<br><br>
 I am always eager to learn new technologies and solve <b>real-world</b> problems through efficient and practical code.
 
-
-## 🌐 Socials:
 ### 🌐 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=umehania.shahid@gmail.com)
 
