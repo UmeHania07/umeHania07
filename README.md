@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=UmeHania07&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 # 📊 Total Contribution:
 ![](https://nirzak-streak-stats.vercel.app/?user=UmeHania07&theme=react&hide_border=false)<br/>
-# 📊 The Most use Language:
+# 📊 The Most used Language:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmeHania07&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
