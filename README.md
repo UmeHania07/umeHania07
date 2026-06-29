@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"  height="200" width="100%" />
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif"  height="200" width="100%" />
  <b>💫 About Me:</b><br>
 <b>👋 Hi, I'm Ume Hania</b><br><br>
 <b>I am a full-stack MERN Stack Engineer who loves turning complex backend logic and pixel-perfect designs into seamless web applications.</b> From tuning responsive Tailwind layouts to architectural dashboard systems, I focus on building scalable, clean, and highly optimized digital products. Fueled by logic, coffee, and the constant drive to push real-world code!
