@@ -3,7 +3,7 @@
 <b>👋 Hi, I'm Ume Hania</b><br><br>
 <b>I am a full-stack MERN Stack Engineer who loves turning complex backend logic and pixel-perfect designs into seamless web applications.</b> From tuning responsive Tailwind layouts to architectural dashboard systems, I focus on building scalable, clean, and highly optimized digital products. Fueled by logic, coffee, and the constant drive to push real-world code!
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="40%" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="40" height="50" />
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=umehania.shahid@gmail.com)
