@@ -17,8 +17,8 @@
 
 <br clear="right" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=UmeHania&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub States:
+![](https://github-readme-stats.vercel.app/api?username=UmeHania07&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=UmeHania&theme=aura_dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
